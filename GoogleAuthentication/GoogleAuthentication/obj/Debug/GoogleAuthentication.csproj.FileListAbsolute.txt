@@ -1,0 +1,237 @@
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.csprojResolveAssemblyReference.cache
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.csproj.CoreCompileInputs.cache
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\ApplicationInsights.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.exe
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.exe.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.rsp
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.exe
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.exe.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.rsp
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.AppContext.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Console.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.Compression.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.Pipes.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.AccessControl.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Claims.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Threading.Thread.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.ValueTuple.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XPath.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.exe
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.exe.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.rsp
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\VBCSCompiler.exe
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.dll.config
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.pdb
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Antlr3.Runtime.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.SqlServer.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Web.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Newtonsoft.Json.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Owin.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Helpers.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Mvc.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Optimization.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Razor.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Razor.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\WebGrease.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Helpers.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Mvc.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Optimization.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Razor.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Razor.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Antlr3.Runtime.pdb
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Newtonsoft.Json.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.SqlServer.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Web.xml
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.dll
+c:\users\admin1\source\repos\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.pdb
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\ApplicationInsights.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.exe
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.exe.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csc.rsp
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.exe
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.exe.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\csi.rsp
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Console.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Claims.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Threading.Thread.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.exe
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\vbc.rsp
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.dll.config
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\GoogleAuthentication.pdb
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Antlr3.Runtime.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.SqlServer.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Web.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Owin.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Helpers.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Mvc.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Optimization.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Razor.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Razor.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\WebGrease.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Helpers.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Mvc.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Optimization.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.Razor.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\System.Web.WebPages.Razor.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Antlr3.Runtime.pdb
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\EntityFramework.SqlServer.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\bin\Microsoft.AI.Web.xml
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.dll
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.pdb
+C:\Users\roshini.tadi\Documents\Visual Studio 2015\Projects\GoogleAuthentication\GoogleAuthentication\obj\Debug\GoogleAuthentication.csprojResolveAssemblyReference.cache

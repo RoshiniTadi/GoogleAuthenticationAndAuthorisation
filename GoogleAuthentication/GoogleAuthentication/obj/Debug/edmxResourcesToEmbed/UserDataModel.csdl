@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="webModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Roleid" />
+    </Key>
+    <Property Name="Roleid" Type="Int32" Nullable="false" />
+    <Property Name="RoleName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserAccounts" Relationship="Self.FK__UserAccoun__Role__3B75D760" FromRole="Roles" ToRole="UserAccount" />
+    <NavigationProperty Name="UserAccounts1" Relationship="Self.Junction" FromRole="Roles" ToRole="UserAccount" />
+  </EntityType>
+  <EntityType Name="UserAccount">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GivenName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SurName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Identifier" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="Role" Type="Int32" />
+    <NavigationProperty Name="Role1" Relationship="Self.FK__UserAccoun__Role__3B75D760" FromRole="UserAccount" ToRole="Roles" />
+    <NavigationProperty Name="Roles" Relationship="Self.Junction" FromRole="UserAccount" ToRole="Roles" />
+  </EntityType>
+  <Association Name="FK__UserAccoun__Role__3B75D760">
+    <End Role="Roles" Type="Self.Role" Multiplicity="0..1" />
+    <End Role="UserAccount" Type="Self.UserAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Roleid" />
+      </Principal>
+      <Dependent Role="UserAccount">
+        <PropertyRef Name="Role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Junction">
+    <End Role="Roles" Type="Self.Role" Multiplicity="*" />
+    <End Role="UserAccount" Type="Self.UserAccount" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="webEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="UserAccounts" EntityType="Self.UserAccount" />
+    <AssociationSet Name="FK__UserAccoun__Role__3B75D760" Association="Self.FK__UserAccoun__Role__3B75D760">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="UserAccount" EntitySet="UserAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="Junction" Association="Self.Junction">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="UserAccount" EntitySet="UserAccounts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
