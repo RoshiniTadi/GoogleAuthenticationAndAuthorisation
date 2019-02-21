@@ -71,7 +71,7 @@ namespace GoogleAuthentication.Controllers
                     IsActive = true
                 };
                 db.UserAccounts.Add(user);
-          if(user.Email.Contains("ggktech.com"))
+          if(user.Email.Contains(".com"))
                 {
                     user.Role = 1;
                     Obj = db.Roles.FirstOrDefault(x=>x.Roleid==user.Role);
